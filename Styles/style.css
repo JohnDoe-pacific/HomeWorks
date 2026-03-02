@@ -1,0 +1,42 @@
+body {
+    font-family: Geneva;
+    text-align: center;
+    background-color: oldlace;
+    margin: 25px;
+    padding: 25px;
+    border: solid 2px;
+}
+
+.container h1,h2{
+    color: red;
+    background: #45453e;
+    border: solid 2px;
+}
+
+p{
+    color: darkblue;
+    background-color: #c3d39f;
+    border: solid 3px;
+}
+
+#test.test h3, p{
+    color: #43a82c;
+    background: #ecec68;
+    border: solid 1px;
+}
+
+div h4 {
+    color: darkblue;
+    border: solid 5px;
+}
+h5{
+    color: #19df1d;
+    border: solid 1px;
+}
+section h5{
+    color: #cd1885;
+}
+
+h2{
+    color: #0c0c09 !important;
+}
